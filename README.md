@@ -10,7 +10,7 @@ I'm a developer from Germany.
 
 ## Reach me
 
-- To contact me easily DM me on Discord [AlphaBMJy#7640](AlphaBMJy#7640)
+- To contact me easily DM me on Discord [AlphaBMJy#7640](http://discord.com/users/AlphaBMJy#7640)
 - Or join my Discord [Server](https://page.benekn.repl.co/goto/discord.html)
 
 You can also email me:<br>
