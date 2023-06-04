@@ -16,6 +16,10 @@ I'm a developer from Germany.
 You can also email me:<br>
 [contact.alphabmjy@gmail.com](mailto:contact.alphabmjy@gmail.com)
 
+## Social media
+- [Twitter](https://twitter.com/AlphaBMJy)
+- [TikTok](https://www.tiktok.com/@alphabmjy)
+
 ## Stats
 [![GitHub Stats](https://github-stats.qrpx.link/api/top-langs/?username=alphabmjy&langs_count=5)](https://github.com/alphabmjy)
 [![GitHub Stats](https://github-stats.qrpx.link/api?username=alphabmjy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/alphabmjy)
