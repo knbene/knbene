@@ -3,7 +3,7 @@
 I'm a developer from Germany.
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,php,swift
+![Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,php,swift
 )(https://github.com/alphabmjy)
 
 ## Tools & Software
@@ -14,7 +14,7 @@ I'm a developer from Germany.
 To contact me easily DM me on [Discord](https://discord.com/channels/@me/552530299423293441)
 
 You can also email me:<br>
- **:** [contact.alphabmjy@gmail.com](mailto:contact.alphabmjy@gmail.com)<br>
+[contact.alphabmjy@gmail.com](mailto:contact.alphabmjy@gmail.com)<br>
 
 ## Stats
 [![GitHub Stats](https://github-stats.qrpx.link/api/top-langs/?username=alphabmjy&langs_count=10)](https://github.com/alphabmjy)
