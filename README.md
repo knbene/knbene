@@ -6,7 +6,7 @@ I'm a developer from Germany.
 [![Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,php,swift)](https://github.com/nxBene)
 
 ## Tools & Software
-[![Skills]([https://skillicons.dev/icons?i=vscode,github,git,discord,bots](https://skillicons.dev/icons?i=vscode,idea,github,codepen,replit,git,discord,bots))](https://github.com/nxBene)
+[![Skills]([https://skillicons.dev/icons?i=vscode,github,git,discord,bots](https://skillicons.dev/icons?i=vscode,idea,github,codepen,replit,git,discord,bots)](https://github.com/nxBene)
 
 ## Reach me
 
