@@ -10,11 +10,12 @@ I'm a developer from Germany.
 
 ## Reach me
 
-- To contact me easily DM me on Discord [nxBene](http://discord.com/users/nxBene)
-- Or join my Discord [Server](https://page.benekn.repl.co/goto/discord.html)
+- To contact me easily DM me on Insta [nxBene](https://www.instagram.com/nxbene/)
+- Or join my [Discord](https://discord.gg/FXRuVCFguJ)
 
 You can also email me:<br>
-[contact.alphabmjy@gmail.com](mailto:contact.alphabmjy@gmail.com)
+[contact.nxbene@icloud.com](mailto:contact.nxbene@icloud.com)
+
 
 ## Social media
 - [Twitter](https://twitter.com/AlphaBMJy)
