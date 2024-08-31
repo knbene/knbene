@@ -11,7 +11,6 @@ Fullstack Dev
 ## Reach me
 
 - To contact me easily DM me on Insta [nxBene](https://www.instagram.com/nxbene/)
-- Or join my [Discord](https://discord.gg/FXRuVCFguJ)
 
 You can also email me:<br>
 [contact.nxbene@icloud.com](mailto:contact.nxbene@icloud.com)
