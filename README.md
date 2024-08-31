@@ -1,6 +1,6 @@
-# Hey, I'm Bene! 👋
+# Bene
 
-I'm a developer from Germany.
+Fullstack Dev
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=nodejs,html,css,js,php,swift)](https://github.com/nxBene)
