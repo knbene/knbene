@@ -23,3 +23,7 @@ You can also email me:<br>
 ## Stats
 [![GitHub Stats](https://github-stats.qrpx.link/api/top-langs/?username=nxBene&langs_count=5)](https://github.com/nxBene)
 [![GitHub Stats](https://github-stats.qrpx.link/api?username=nxBene&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/nxBene)
+
+
+[![Test](https://skillicons.dev/icons?i=aws,bootstrap,c,css,discordjs,git,github,gitlab,html,idea,js,mysql,nodejs,notion,npm,php,react,swift,visualstudio,vscode)](https://github.com/nxBene)
+
