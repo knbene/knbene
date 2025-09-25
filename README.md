@@ -1,24 +1,20 @@
 # Bene
 
-Fullstack Dev
+## Software Engineer (Application Development)
 
-## Skills
-[![Skills](https://skillicons.dev/icons?i=nodejs,typescript,html,css,js,php,swift)](https://github.com/knBene)
+### Experience with
+[![Experience with](https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,raspberrypi,npm,aws,cloudflare,replit,git,)](https://github.com/knBene)
 
-## Tools & Software
-[![Skills](https://skillicons.dev/icons?i=vscode,idea,github,codepen,replit,git,discord,bots)](https://github.com/knBene)
+### Skills
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,py,php,html,css,js,discordjs,swift,)](https://github.com/knBene)
 
-## Reach me
 
-- To contact me easily DM me on Insta [nxBene](https://www.instagram.com/nxBene/)
+### Reach me
 
-You can also email me:<br>
-[contact@knbene.de](mailto:contact@knbene.de)
+To contact me
+-  DM me on Insta [nxBene](https://www.instagram.com/nxBene/)
+-  or write an email [contact@knbene.de](mailto:contact@knbene.de)
 
-## Stats
+### Stats
 [![GitHub Stats](https://github-stats.qrpx.link/api/top-langs/?username=knBene&langs_count=5)](https://github.com/knBene)
 [![GitHub Stats](https://github-stats.qrpx.link/api?username=knBene&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/knBene)
-
-
-[![Test](https://skillicons.dev/icons?i=aws,bootstrap,c,css,discordjs,git,github,gitlab,html,idea,js,mysql,nodejs,notion,npm,php,react,swift,visualstudio,vscode)](https://github.com/knBene)
-
