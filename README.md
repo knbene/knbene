@@ -14,12 +14,6 @@ Always curious and eager to learn new tools and frameworks.
 ## Skills  
 [![Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,py,php,html,css,js,discordjs,swift)](https://github.com/knBene)
 
-## Projects  
-Here are some of the projects I’ve worked on:  
-- 🚀 [Project 1](#) – Short description of what it does  
-- 🤖 [Project 2](#) – Short description of what it does  
-- 🌐 [Project 3](#) – Short description of what it does  
-
 ## Contact  
 Feel free to reach out:  
 - 📩 DM me on Instagram [@nxBene](https://www.instagram.com/nxBene/)  
