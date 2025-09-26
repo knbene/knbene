@@ -12,7 +12,7 @@ Always curious and eager to learn new tools and frameworks.
 [![Experience with](https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,raspberrypi,npm,aws,cloudflare,replit,git)](https://github.com/knBene)
 
 ## Skills  
-[![Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,py,php,html,css,js,discordjs,swift)](https://github.com/knBene)
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,py,php,swift,html,css,js,discordjs,)](https://github.com/knBene)
 
 ## Contact  
 Feel free to reach out:  
