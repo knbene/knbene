@@ -1,13 +1,6 @@
 # Bene
 
 
-## About Me  
-
-#### Software Engineer (Application Development)  
-
-I’m a passionate fullstack developer with experience in building scalable web applications, automating workflows, and working with modern cloud technologies.  
-Always curious and eager to learn new tools and frameworks.  
-
 ## Experience  
 [![Experience with](https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,raspberrypi,npm,aws,cloudflare,replit,git)](https://github.com/knBene)
 
