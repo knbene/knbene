@@ -31,7 +31,7 @@ My primary focus is backend development, API design, and cloud-based deployments
 ---
 
 ## GitHub Analytics
-[Top Languages](./profile/languages.svg) [GitHub Stats](./profile/stats.svg)
+[![Top Languages](./profile/languages.svg) [![GitHub Stats](./profile/stats.svg)
 
 ---
 
