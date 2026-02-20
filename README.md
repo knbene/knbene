@@ -38,8 +38,6 @@ My primary focus is backend development, API design, and cloud-based deployments
 
 ---
 
----
-
 ## Contact
 
 Professional inquiries:
