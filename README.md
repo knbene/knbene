@@ -32,7 +32,7 @@ My primary focus is backend development, API design, and cloud-based deployments
 
 ## GitHub Analytics
 
-[![Top Languages](https://github-stats.qrpx.link/api/top-langs/?username=knBene&langs_count=5&hide_border=true)](https://github.com/knBene) [![GitHub Stats](./profile/stats.svg)
+[![Top Languages](./profile/languages.svg) [![GitHub Stats](./profile/stats.svg)
 
 ---
 
