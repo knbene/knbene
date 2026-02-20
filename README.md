@@ -14,10 +14,7 @@ My primary focus is backend development, API design, and cloud-based deployments
 ## Tech Stack
 
 ### Core
-[![Core](https://skillicons.dev/icons?i=dotnet,cs,mysql,js,html,css)](https://github.com/knBene)
-
-### Additional
-[![Additional](https://skillicons.dev/icons?i=py,php,swift,discordjs)](https://github.com/knBene)
+[![Core](https://skillicons.dev/icons?i=dotnet,cs,mysql,js,html,swift,py)](https://github.com/knBene)
 
 ### Infrastructure & Tooling
 [![Infrastructure](https://skillicons.dev/icons?i=aws,cloudflare,git,github,visualstudio,vscode,idea,npm,raspberrypi)](https://github.com/knBene)
@@ -35,9 +32,7 @@ My primary focus is backend development, API design, and cloud-based deployments
 
 ## GitHub Analytics
 
-[![Top Languages](https://github-stats.qrpx.link/api/top-langs/?username=knBene&langs_count=5&hide_border=true)](https://github.com/knBene)
-
-[![GitHub Stats](https://github-stats.qrpx.link/api?username=knBene&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/knBene)
+[![Top Languages](https://github-stats.qrpx.link/api/top-langs/?username=knBene&langs_count=5&hide_border=true)](https://github.com/knBene) [![GitHub Stats](https://github-stats.qrpx.link/api?username=knBene&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/knBene)
 
 ---
 
