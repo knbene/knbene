@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # täglich um 03:00 UTC
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,14 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &count_private=true
-            &theme=transparent
-            &hide_border=true
-            &disable_animations=true
-            &card_width=450
+          options: username=knbene&show_icons=true&count_private=true&theme=transparent&hide_border=true&disable_animations=true&card_width=450
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
 
@@ -40,19 +33,12 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: >
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &count_private=true
-            &theme=transparent
-            &hide_border=true
-            &disable_animations=true
-            &card_width=450
+          options: username=knbene&layout=compact&count_private=true&theme=transparent&hide_border=true&disable_animations=true&card_width=450
           path: profile/languages.svg
           token: ${{ secrets.PAT }}
 
       # -----------------------------
-      # Commit Changes (nur wenn nötig)
+      # Commit (nur wenn Änderungen existieren)
       # -----------------------------
       - name: Commit cards
         run: |
