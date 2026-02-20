@@ -31,8 +31,10 @@ My primary focus is backend development, API design, and cloud-based deployments
 ---
 
 ## GitHub Analytics
-<img src="./profile/languages.svg" width="48%">
-<img src="./profile/stats.svg" width="48%">
+<div align="center">
+  <img src="./profile/languages.svg" width="400px" />
+  <img src="./profile/stats.svg" width="400px" />
+</div>
 
 ---
 
