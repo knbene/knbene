@@ -1,16 +1,49 @@
 # Bene
 
+Software Developer focused on building scalable backend systems and clean, production-ready architectures.
 
-## Experience  
-[![Experience with](https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,raspberrypi,npm,aws,cloudflare,replit,git)](https://github.com/knBene)
+---
 
-## Skills  
-[![Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,py,php,swift,html,css,js,discordjs,)](https://github.com/knBene)
+## About
 
-## Contact  
-Feel free to reach out:  
-- 📩 DM me on Instagram [@nxBene](https://www.instagram.com/nxBene/)  
-- ✉️ Email me at [contact@knbene.de](mailto:contact@knbene.de)  
+I design and implement maintainable software solutions with a strong emphasis on structure, clarity, and long-term scalability.  
+My primary focus is backend development, API design, and cloud-based deployments.
 
-## Stats  
-[![Top Languages](https://github-stats.qrpx.link/api/top-langs/?username=knBene&langs_count=5)](https://github.com/knBene) [![GitHub Stats](https://github-stats.qrpx.link/api?username=knBene&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/knBene)  
+---
+
+## Tech Stack
+
+### Core
+[![Core](https://skillicons.dev/icons?i=dotnet,cs,mysql,js,html,css)](https://github.com/knBene)
+
+### Additional
+[![Additional](https://skillicons.dev/icons?i=py,php,swift,discordjs)](https://github.com/knBene)
+
+### Infrastructure & Tooling
+[![Infrastructure](https://skillicons.dev/icons?i=aws,cloudflare,git,github,visualstudio,vscode,idea,npm,raspberrypi)](https://github.com/knBene)
+
+---
+
+## Focus Areas
+
+- .NET / C# Backend Engineering  
+- REST API Design  
+- Database Architecture (MySQL)
+- React Applications 
+
+---
+
+## GitHub Analytics
+
+[![Top Languages](https://github-stats.qrpx.link/api/top-langs/?username=knBene&langs_count=5&hide_border=true)](https://github.com/knBene)
+
+[![GitHub Stats](https://github-stats.qrpx.link/api?username=knBene&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/knBene)
+
+---
+
+## Contact
+
+Professional inquiries:
+
+Email: [contact@knbene.de](mailto:contact@knbene.de)  
+Instagram: [@nxBene](https://www.instagram.com/nxBene/) 
