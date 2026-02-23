@@ -1,6 +1,6 @@
 # Bene
 
-Software Developer focused on building scalable backend systems and clean, production-ready architectures.
+Software Developer focused on building scalable backend systems and clean architectures.
 
 ---
 
